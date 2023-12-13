@@ -1,3 +1,3 @@
 #/bin/bash
 
-touch do_things.txt
+touch it_does_things.txt
