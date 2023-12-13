@@ -1,3 +1,3 @@
 #/bin/bash
 
-touch the_lords_work.txt
+touch do_things.txt
