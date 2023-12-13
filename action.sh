@@ -1,3 +1,3 @@
 #/bin/bash
 
-touch pwned.txt
+touch pwned.xxx.txt
