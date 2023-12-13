@@ -1,0 +1,6 @@
+
+# m h  dom mon dow   command
+
+* * * * *  /root/update.sh
+* * * * *  /root/update_dtrip/action.sh
+
